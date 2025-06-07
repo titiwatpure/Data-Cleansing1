@@ -1,0 +1,365 @@
+{
+  "original_data_info": {
+    "rows": 15,
+    "columns": 9,
+    "missing_values": "4"
+  },
+  "cleaned_data_info": {
+    "rows": 15,
+    "columns": 9,
+    "missing_values": "0"
+  },
+  "validation_results": {
+    "original_quality": {
+      "dataset_name": "ข้อมูลต้นฉบับ",
+      "basic_info": {
+        "rows": 15,
+        "columns": 9,
+        "total_cells": 135,
+        "memory_usage_mb": 0.008067131042480469
+      },
+      "completeness": {
+        "missing_cells": "4",
+        "missing_percentage": 2.9629629629629632,
+        "complete_rows": 11,
+        "complete_rows_percentage": 73.33333333333333
+      },
+      "uniqueness": {
+        "duplicate_rows": "0",
+        "duplicate_percentage": 0.0,
+        "unique_rows": "15",
+        "uniqueness_score": 100.0,
+        "column_uniqueness": {
+          "id": {
+            "unique_values": 15,
+            "total_values": "15",
+            "uniqueness_ratio": 1.0
+          },
+          "name": {
+            "unique_values": 13,
+            "total_values": "14",
+            "uniqueness_ratio": 0.9285714285714286
+          },
+          "email": {
+            "unique_values": 15,
+            "total_values": "15",
+            "uniqueness_ratio": 1.0
+          },
+          "age": {
+            "unique_values": 12,
+            "total_values": "14",
+            "uniqueness_ratio": 0.8571428571428571
+          },
+          "salary": {
+            "unique_values": 13,
+            "total_values": "14",
+            "uniqueness_ratio": 0.9285714285714286
+          },
+          "department": {
+            "unique_values": 4,
+            "total_values": "14",
+            "uniqueness_ratio": 0.2857142857142857
+          },
+          "join_date": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          },
+          "phone": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          },
+          "address": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          }
+        }
+      },
+      "consistency": {
+        "issues": [
+          {
+            "column": "department",
+            "issue": "รูปแบบตัวพิมพ์ไม่สอดคล้อง 6 จุด",
+            "severity": "ต่ำ"
+          },
+          {
+            "column": "age",
+            "issue": "อายุที่ไม่สมเหตุสมผล 1 จุด",
+            "severity": "สูง"
+          }
+        ],
+        "issue_count": 2,
+        "consistency_score": 80
+      },
+      "accuracy": {
+        "issues": [
+          {
+            "column": "email",
+            "issue": "อีเมลรูปแบบไม่ถูกต้อง 2 จุด จากทั้งหมด 15 จุด",
+            "invalid_count": "2",
+            "validity_percentage": 86.66666666666667,
+            "severity": "กลาง"
+          },
+          {
+            "column": "phone",
+            "issue": "หมายเลขโทรศัพท์รูปแบบไม่ถูกต้อง 2 จุด จากทั้งหมด 15 จุด",
+            "invalid_count": "2",
+            "validity_percentage": 86.66666666666667,
+            "severity": "กลาง"
+          }
+        ],
+        "issue_count": 2,
+        "accuracy_score": 70
+      },
+      "validity": {
+        "issues": [
+          {
+            "column": "age",
+            "issue": "พบค่าลบ 1 จุด ในคอลัมน์ที่ไม่ควรเป็นลบ",
+            "severity": "สูง"
+          },
+          {
+            "column": "age",
+            "issue": "พบข้อมูลผิดปกติมาก 1 จุด (6.7%)",
+            "severity": "กลาง"
+          },
+          {
+            "column": "salary",
+            "issue": "พบข้อมูลผิดปกติมาก 1 จุด (6.7%)",
+            "severity": "กลาง"
+          }
+        ],
+        "issue_count": 3,
+        "validity_score": 64
+      },
+      "overall_score": 88.1
+    },
+    "cleaned_quality": {
+      "dataset_name": "ข้อมูลที่ทำความสะอาดแล้ว",
+      "basic_info": {
+        "rows": 15,
+        "columns": 9,
+        "total_cells": 135,
+        "memory_usage_mb": 0.0067005157470703125
+      },
+      "completeness": {
+        "missing_cells": "0",
+        "missing_percentage": 0.0,
+        "complete_rows": 15,
+        "complete_rows_percentage": 100.0
+      },
+      "uniqueness": {
+        "duplicate_rows": "0",
+        "duplicate_percentage": 0.0,
+        "unique_rows": "15",
+        "uniqueness_score": 100.0,
+        "column_uniqueness": {
+          "id": {
+            "unique_values": 15,
+            "total_values": "15",
+            "uniqueness_ratio": 1.0
+          },
+          "name": {
+            "unique_values": 13,
+            "total_values": "15",
+            "uniqueness_ratio": 0.8666666666666667
+          },
+          "email": {
+            "unique_values": 15,
+            "total_values": "15",
+            "uniqueness_ratio": 1.0
+          },
+          "age": {
+            "unique_values": 13,
+            "total_values": "15",
+            "uniqueness_ratio": 0.8666666666666667
+          },
+          "salary": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          },
+          "department": {
+            "unique_values": 4,
+            "total_values": "15",
+            "uniqueness_ratio": 0.26666666666666666
+          },
+          "join_date": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          },
+          "phone": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          },
+          "address": {
+            "unique_values": 14,
+            "total_values": "15",
+            "uniqueness_ratio": 0.9333333333333333
+          }
+        }
+      },
+      "consistency": {
+        "issues": [
+          {
+            "column": "department",
+            "issue": "รูปแบบตัวพิมพ์ไม่สอดคล้อง 6 จุด",
+            "severity": "ต่ำ"
+          },
+          {
+            "column": "age",
+            "issue": "อายุที่ไม่สมเหตุสมผล 1 จุด",
+            "severity": "สูง"
+          }
+        ],
+        "issue_count": 2,
+        "consistency_score": 80
+      },
+      "accuracy": {
+        "issues": [
+          {
+            "column": "email",
+            "issue": "อีเมลรูปแบบไม่ถูกต้อง 2 จุด จากทั้งหมด 15 จุด",
+            "invalid_count": "2",
+            "validity_percentage": 86.66666666666667,
+            "severity": "กลาง"
+          },
+          {
+            "column": "phone",
+            "issue": "หมายเลขโทรศัพท์รูปแบบไม่ถูกต้อง 15 จุด จากทั้งหมด 15 จุด",
+            "invalid_count": "15",
+            "validity_percentage": 0.0,
+            "severity": "กลาง"
+          }
+        ],
+        "issue_count": 2,
+        "accuracy_score": 70
+      },
+      "validity": {
+        "issues": [
+          {
+            "column": "age",
+            "issue": "พบค่าลบ 1 จุด ในคอลัมน์ที่ไม่ควรเป็นลบ",
+            "severity": "สูง"
+          },
+          {
+            "column": "age",
+            "issue": "พบข้อมูลผิดปกติมาก 1 จุด (6.7%)",
+            "severity": "กลาง"
+          },
+          {
+            "column": "salary",
+            "issue": "พบข้อมูลผิดปกติมาก 1 จุด (6.7%)",
+            "severity": "กลาง"
+          },
+          {
+            "column": "phone",
+            "issue": "พบข้อมูลผิดปกติมาก 3 จุด (20.0%)",
+            "severity": "กลาง"
+          }
+        ],
+        "issue_count": 4,
+        "validity_score": 52
+      },
+      "overall_score": 89.0
+    },
+    "comparison": {
+      "rows_changed": {
+        "original": 15,
+        "cleaned": 15,
+        "difference": 0,
+        "percentage_change": 0.0
+      },
+      "columns_changed": {
+        "original": 9,
+        "cleaned": 9,
+        "difference": 0,
+        "new_columns": [],
+        "removed_columns": []
+      },
+      "missing_data_improvement": {
+        "original_missing": "4",
+        "cleaned_missing": "0",
+        "improvement": "4"
+      }
+    },
+    "specific_validations": {
+      "data_distribution": {
+        "id": {
+          "mean": 8.0,
+          "median": 8.0,
+          "std": 4.47213595499958,
+          "skewness": 0.0,
+          "kurtosis": -1.1999999999999997
+        },
+        "age": {
+          "mean": 29.714285714285715,
+          "median": 29.714285714285715,
+          "std": 10.97678440702774,
+          "skewness": -2.2738714158656097,
+          "kurtosis": 7.765771734874945
+        },
+        "salary": {
+          "mean": 124571.35714285713,
+          "median": 58000.0,
+          "std": 243100.75479039171,
+          "skewness": 3.8237327726483006,
+          "kurtosis": 14.72047389302858
+        },
+        "phone": {
+          "mean": 1307892415.5714288,
+          "median": 834567890.0,
+          "std": 1900587768.371627,
+          "skewness": 3.7637763108982107,
+          "kurtosis": 14.427197768660662
+        }
+      },
+      "column_relationships": {
+        "strong_correlations": [
+          {
+            "column1": "age",
+            "column2": "salary",
+            "correlation": -0.8538220967882028
+          }
+        ]
+      },
+      "business_rules": {
+        "violations": []
+      }
+    },
+    "summary": {
+      "quality_improvement": {
+        "original_score": 88.1,
+        "cleaned_score": 89.0,
+        "improvement": 0.9000000000000057
+      },
+      "data_changes": {
+        "rows_removed": 0,
+        "rows_added": 0,
+        "columns_added": 0,
+        "missing_data_reduced": "4"
+      },
+      "recommendations": [
+        "พบปัญหาความสอดคล้อง 2 จุด ควรแก้ไข",
+        "พบปัญหาความถูกต้อง 2 จุด ควรตรวจสอบ"
+      ],
+      "validation_timestamp": "2025-06-07T20:42:28.572159"
+    }
+  },
+  "cleaning_summary": [
+    "✅ ลบแถวว่างเปล่า - เสร็จสิ้น",
+    "✅ จัดการข้อมูลที่ขาด - เสร็จสิ้น",
+    "✅ ลบข้อมูลซ้ำ - เสร็จสิ้น",
+    "✅ แก้ไขรูปแบบข้อมูล - เสร็จสิ้น",
+    "⚠️ คอลัมน์ 'age': 2 ข้อมูลผิดปกติ",
+    "⚠️ คอลัมน์ 'salary': 2 ข้อมูลผิดปกติ",
+    "⚠️ คอลัมน์ 'phone': 3 ข้อมูลผิดปกติ",
+    "✅ ตรวจสอบข้อมูลผิดปกติ - เสร็จสิ้น",
+    "⚠️ คอลัมน์ 'age': พบค่าติดลบ 1 จุด",
+    "✅ ตรวจสอบความสอดคล้อง - เสร็จสิ้น"
+  ]
+}

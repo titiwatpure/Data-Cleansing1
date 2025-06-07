@@ -1,0 +1,135 @@
+# Data Cleansing Pipeline Configuration
+# ปรับแต่งการตั้งค่าสำหรับระบบทำความสะอาดข้อมูล
+
+# Database Settings
+database:
+  default_connection: "sqlite:///data/database.db"
+  mysql:
+    host: "localhost"
+    port: 3306
+    username: ""
+    password: ""
+    database: ""
+  postgresql:
+    host: "localhost"
+    port: 5432
+    username: ""
+    password: ""
+    database: ""
+  
+# Data Processing Settings
+processing:
+  # Memory usage limits
+  max_rows_in_memory: 1000000
+  chunk_size: 10000
+  
+  # Missing data handling
+  missing_data:
+    default_strategy: "drop"  # drop, fill_mean, fill_median, fill_mode, fill_forward, fill_backward
+    numeric_fill_value: 0
+    string_fill_value: "Unknown"
+    date_fill_strategy: "forward_fill"
+  
+  # Duplicate handling
+  duplicates:
+    keep_strategy: "first"  # first, last, none
+    subset_columns: []  # empty means all columns
+  
+  # Outlier detection
+  outliers:
+    method: "iqr"  # iqr, zscore, isolation_forest
+    threshold: 1.5
+    action: "flag"  # flag, remove, cap
+  
+  # Data types
+  auto_detect_types: true
+  date_formats: 
+    - "%Y-%m-%d"
+    - "%d/%m/%Y"
+    - "%m/%d/%Y"
+    - "%Y-%m-%d %H:%M:%S"
+
+# Validation Rules
+validation:
+  # Quality thresholds
+  quality_thresholds:
+    completeness: 0.95  # 95% non-null values
+    uniqueness: 0.98    # 98% unique values for ID columns
+    consistency: 0.99   # 99% consistent format
+    accuracy: 0.95      # 95% valid values
+  
+  # Business rules
+  business_rules:
+    email_validation: true
+    phone_validation: true
+    date_range_validation: true
+    numeric_range_validation: true
+
+# Reporting Settings
+reporting:
+  default_format: "html"  # html, json, pdf, txt
+  include_charts: true
+  include_statistics: true
+  language: "thai"  # thai, english
+  
+  # Report sections
+  sections:
+    executive_summary: true
+    data_overview: true
+    quality_assessment: true
+    cleansing_actions: true
+    recommendations: true
+    technical_details: true
+
+# File Processing
+file_processing:
+  # Supported formats
+  supported_formats: ["csv", "xlsx", "xls", "json", "parquet"]
+  
+  # CSV settings
+  csv:
+    encoding: "utf-8"
+    delimiter: ","
+    quotechar: '"'
+    escapechar: "\\"
+  
+  # Excel settings
+  excel:
+    sheet_name: 0  # first sheet
+    header_row: 0  # first row as header
+  
+  # JSON settings
+  json:
+    orient: "records"  # records, index, values, split, table
+
+# Logging Settings
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/data_cleansing.log"
+  max_file_size: "10MB"
+  backup_count: 5
+
+# Performance Settings
+performance:
+  use_multiprocessing: true
+  max_workers: 4
+  memory_limit: "2GB"
+  
+# Export Settings
+export:
+  default_location: "data/processed/"
+  include_metadata: true
+  compress_output: false
+  
+# API Settings (สำหรับการเชื่อมต่อ API ภายนอก)
+api:
+  timeout: 30
+  max_retries: 3
+  retry_delay: 1
+
+# Template Settings
+templates:
+  save_location: "templates/"
+  auto_save: true
+  include_parameters: true

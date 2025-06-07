@@ -1,0 +1,5047 @@
+[
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ชัยบาดาล"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "สรรพยา"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "สัตหีบ"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "72",
+    "DISTRICT_NAME": "ท้องถิ่นเทศบาลเมืองหนองปรือ*"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "93",
+    "DISTRICT_NAME": "เทศบาลตำบลแหลมฉบัง*"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "วังจันทร์"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บ้านค่าย"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปลวกแดง"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เขาชะเมา"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "สาขาตำบลมาบข่า*"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ขลุง"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ท่าใหม่"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "นายายอาม"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "เขาคิชฌกูฏ"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "\"กิ่ง อ.กำพุธ",
+    "undefined": "จ.จันทบุรี*\""
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เขาสมิง"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองฉะเชิงเทรา"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บางคล้า"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บางน้ำเปรี้ยว"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางปะกง"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ราชสาส์น"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สนามชัยเขต"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "แปลงยาว"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "คลองเขื่อน"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองปราจีนบุรี"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กบินทร์บุรี"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านสร้าง"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ศรีมโหสถ"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "อรัญประเทศ*"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ตาพระยา*"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "วัฒนานคร*"
+  },
+  {
+    "PROVINCE_CODE": "26",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ปากพลี"
+  },
+  {
+    "PROVINCE_CODE": "26",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "องครักษ์"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "วัฒนานคร"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เขาฉกรรจ์"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "โคกสูง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครราชสีมา"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เสิงสาง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "คง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "โนนไทย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "โนนสูง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ประทาย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "พิมาย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "ชุมพวง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "ขามทะเลสอ"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "แก้งสนามนาง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "โนนแดง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "28",
+    "DISTRICT_NAME": "พระทองคำ"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "29",
+    "DISTRICT_NAME": "ลำทะเมนชัย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "30",
+    "DISTRICT_NAME": "บัวลาย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "สาขาตำบลมะค่า-พลสงคราม*"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "คูเมือง"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "หนองกี่"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "สตึก"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "พลับพลาชัย"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ชำนิ"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "แคนดง"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "รัตนบุรี"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "สำโรงทาบ"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "ศรีณรงค์"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "โนนนารายณ์"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "หัวตะพาน*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "พิบูลมังสาหาร"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "สำโรง"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "ดอนมดแดง"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "27",
+    "DISTRICT_NAME": "ปทุมราชวงศา*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "29",
+    "DISTRICT_NAME": "นาเยีย"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "31",
+    "DISTRICT_NAME": "เหล่าเสือโก้ก"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "\"อ.สุวรรณวารี",
+    "undefined": "จ.อุบลราชธานี*\""
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กุดชุม"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "คำเขื่อนแก้ว"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "มหาชนะชัย"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "เทพสถิต"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ภูเขียว"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "บ้านแท่น"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "แก้งคร้อ"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "คอนสาร"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "57",
+    "DISTRICT_NAME": "บ้านแท่น (สาขาตำบลบ้านเต่า)*"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ชานุมาน"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ปทุมราชวงศา"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เสนางคนิคม"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โซ่พิสัย"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เซกา"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองขอนแก่น"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ชุมแพ"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "กระนวน"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "มัญจาคีรี"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ชนบท"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "เขาสวนกวาง"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "โนนสัง*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "เพ็ญ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "นายูง"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "พิบูลย์รักษ์"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "กู่แก้ว"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองเลย"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ภูกระดึง"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ภูหลวง"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ผาขาว"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "หนองหิน"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "แกดำ"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "กันทรวิชัย"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "วาปีปทุม"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ธวัชบุรี"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พนมไพร"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "โพนทอง"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "เมืองสรวง"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เมยวดี"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "จังหาร"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กมลาไสย"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ยางตลาด"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ห้วยเม็ก"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "สหัสขันธ์"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "คำม่วง"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ท่าคันโท"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "หนองกุงศรี"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กุดบาก"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "เจริญศิลป์"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "โพนนาแก้ว"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "\"อ.บ้านหัน",
+    "undefined": "จ.สกลนคร*\""
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ท่าอุเทน"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "นาแก"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ศรีสงคราม"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "นาหว้า"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "นิคมคำสร้อย"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ดอนตาล"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ดงหลวง"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "หว้านใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สะเมิง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ฝาง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "สันทราย"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ฮอด"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "อมก๋อย"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "สารภี"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "เวียงแหง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "ไชยปราการ"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "ดอยหล่อ"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เสริมงาม"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "งาว"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "แม่พริก"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "แม่ทะ"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ห้างฉัตร"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอุตรดิตถ์"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ตรอน"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ท่าปลา"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "น้ำปาด"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ฟากท่า"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ลอง"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เด่นชัย"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "สอง"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "วังชิ้น"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "นาหมื่น"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "จุน"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เชียงคำ"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ดอกคำใต้"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เชียงของ"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เทิง"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เชียงแสน"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ขุนตาล"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ชุมแสง"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บรรพตพิสัย"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เก้าเลี้ยว"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ตาคลี"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ไพศาลี"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ขาณุวรลักษบุรี"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "คลองขลุง"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พรานกระต่าย"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บึงสามัคคี"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "โกสัมพีนคร"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองตาก"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ท่าสองยาง"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "พบพระ"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "กิ่ง อ.ท่าปุย  จ.ตาก*"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "คีรีมาศ"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ศรีสัชนาลัย"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ศรีสำโรง"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สวรรคโลก"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ศรีนคร"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ทุ่งเสลี่ยม"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางระกำ"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บางกระทุ่ม"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "วัดโบสถ์"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "วังทอง"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองพิจิตร"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "วังทรายพูน"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "โพทะเล"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สามง่าม"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ทับคล้อ"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองเพชรบูรณ์"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หล่มเก่า"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "วิเชียรบุรี"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ศรีเทพ"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "หนองไผ่"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "วังโป่ง"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "เขาค้อ"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองราชบุรี"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "จอมบึง"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "สวนผึ้ง"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ดำเนินสะดวก"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บ้านโป่ง"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บางแพ"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "โพธาราม"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "วัดเพลง"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บ้านคา"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "74",
+    "DISTRICT_NAME": "ท้องถิ่นเทศบาลตำบลบ้านฆ้อง*"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ไทรโยค"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ศรีสวัสดิ์"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ทองผาภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สังขละบุรี"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "สาขาตำบลท่ากระดาน*"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสุพรรณบุรี"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เดิมบางนางบวช"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ด่านช้าง"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางปลาม้า"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ดอนเจดีย์"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กำแพงแสน"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ดอนตูม"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บางเลน"
+  },
+  {
+    "PROVINCE_CODE": "74",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสมุทรสาคร"
+  },
+  {
+    "PROVINCE_CODE": "74",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กระทุ่มแบน"
+  },
+  {
+    "PROVINCE_CODE": "74",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บ้านแพ้ว"
+  },
+  {
+    "PROVINCE_CODE": "75",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสมุทรสงคราม"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ชะอำ"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ท่ายาง"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "บ้านแหลม"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "แก่งกระจาน"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองประจวบคีรีขันธ์"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ทับสะแก"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางสะพาน"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปราณบุรี"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "หัวหิน"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สามร้อยยอด"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครศรีธรรมราช"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "พรหมคีรี"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ฉวาง"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "พิปูน"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ทุ่งใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ร่อนพิบูลย์"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "ขนอม"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "บางขัน"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ถ้ำพรรณรา"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "จุฬาภรณ์"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "นบพิตำ"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เขาพนม"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เกาะลันตา"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปลายพระยา"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ตะกั่วทุ่ง"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ตะกั่วป่า"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ท้ายเหมือง"
+  },
+  {
+    "PROVINCE_CODE": "83",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กะทู้"
+  },
+  {
+    "PROVINCE_CODE": "83",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "ทุ่งคา*"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสุราษฎร์ธานี"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กาญจนดิษฐ์"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ดอนสัก"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เกาะสมุย"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เกาะพะงัน"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "คีรีรัฐนิคม"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "บ้านตาขุน"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ท่าฉาง"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "เคียนซา"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "พระแสง"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "พุนพิน"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "เกาะพงัน (สาขาตำบลเกาะเต่า)*"
+  },
+  {
+    "PROVINCE_CODE": "85",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "กระบุรี"
+  },
+  {
+    "PROVINCE_CODE": "85",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "สุขสำราญ"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองชุมพร"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ท่าแซะ"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หลังสวน"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พะโต๊ะ"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สวี"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "สทิงพระ"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ระโนด"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "คลองหอยโข่ง"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "77",
+    "DISTRICT_NAME": "ท้องถิ่นเทศบาลตำบลสำนักขาม*"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ควนกาหลง"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "วังวิเศษ"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "นาโยง"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "หาดสำราญ"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "อำเภอเมืองตรัง(สาขาคลองเต็ง)*"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองพัทลุง"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กงหรา"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เขาชัยสน"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ตะโหมด"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ศรีบรรพต"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ป่าบอน"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "บางแก้ว"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ป่าพะยอม"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ยะหริ่ง"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ยะรัง"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "กะพ้อ"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ธารโต"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ยะหา"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "รามัน"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "กาบัง"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "กรงปินัง"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนราธิวาส"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บาเจาะ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "รือเสาะ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ศรีสาคร"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "สุคิริน"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เจาะไอร้อง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เขตบางรัก"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เขตบางเขน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เขตบางกะปิ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "เขตพระโขนง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "เขตลาดกระบัง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "เขตยานนาวา"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "เขตคลองสาน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "27",
+    "DISTRICT_NAME": "เขตบึงกุ่ม"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "28",
+    "DISTRICT_NAME": "เขตสาทร"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "32",
+    "DISTRICT_NAME": "เขตประเวศ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "33",
+    "DISTRICT_NAME": "เขตคลองเตย"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "39",
+    "DISTRICT_NAME": "เขตวัฒนา"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "44",
+    "DISTRICT_NAME": "เขตสะพานสูง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "45",
+    "DISTRICT_NAME": "เขตวังทองหลาง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "49",
+    "DISTRICT_NAME": "เขตทุ่งครุ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "99",
+    "DISTRICT_NAME": "สำนักทะเบียนกลาง*"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสมุทรปราการ"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บางบ่อ"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บางพลี"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "พระสมุทรเจดีย์"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บางเสาธง"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บางใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ไทรน้อย"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปากเกร็ด"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "97",
+    "DISTRICT_NAME": "เทศบาลเมืองปากเกร็ด*"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองปทุมธานี"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ลาดหลุมแก้ว"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ลำลูกกา"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สามโคก"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "ลำลูกกา (สาขาตำบลคูคต)*"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "นครหลวง"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "วังน้อย"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "อุทัย"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "มหาราช"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอ่างทอง"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ไชโย"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สามโก้"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "พัฒนานิคม"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โคกสำโรง"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ท่าวุ้ง"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านหมี่"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ท่าหลวง"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "โคกเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "หนองม่วง"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสิงห์บุรี"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ท่าช้าง"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "อินทร์บุรี"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หนองแค"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านหมอ"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ดอนพุด"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "หนองโดน"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "พระพุทธบาท"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "วังม่วง"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางละมุง"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พนัสนิคม"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ศรีราชา"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เกาะสีชัง"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บ่อทอง"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "เกาะจันทร์"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "สัตหีบ (สาขาตำบลบางเสร่)*"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "99",
+    "DISTRICT_NAME": "เทศบาลเมืองชลบุรี*"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองระยอง"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านฉาง"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "แกลง"
+  },
+  {
+    "PROVINCE_CODE": "21",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "นิคมพัฒนา"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองจันทบุรี"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "มะขาม"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สอยดาว"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "แก่งหางแมว"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองตราด"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "คลองใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บ่อไร่"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "แหลมงอบ"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เกาะกูด"
+  },
+  {
+    "PROVINCE_CODE": "23",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เกาะช้าง"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บ้านโพธิ์"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ท่าตะเกียบ"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "นาดี"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ประจันตคาม"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ศรีมหาโพธิ"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "คลองหาด*"
+  },
+  {
+    "PROVINCE_CODE": "26",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครนายก"
+  },
+  {
+    "PROVINCE_CODE": "26",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บ้านนา"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสระแก้ว"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "คลองหาด"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ตาพระยา"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "วังน้ำเย็น"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "อรัญประเทศ"
+  },
+  {
+    "PROVINCE_CODE": "27",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "วังสมบูรณ์"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ครบุรี"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บ้านเหลื่อม"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "จักราช"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "โชคชัย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ด่านขุนทด"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ปักธงชัย"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ห้วยแถลง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "สูงเนิน"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "สีคิ้ว"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "ปากช่อง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "หนองบุญมาก"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "วังน้ำเขียว"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "26",
+    "DISTRICT_NAME": "เทพารักษ์"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "27",
+    "DISTRICT_NAME": "เมืองยาง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "31",
+    "DISTRICT_NAME": "สีดา"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "32",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "49",
+    "DISTRICT_NAME": "ท้องถิ่นเทศบาลตำบลโพธิ์กลาง*"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "โนนลาว*"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองบุรีรัมย์"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กระสัง"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "นางรอง"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "พุทไธสง"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ปะคำ"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "นาโพธิ์"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ห้วยราช"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "โนนสุวรรณ"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "บ้านใหม่ไชยพจน์"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "โนนดินแดง"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสุรินทร์"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ชุมพลบุรี"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "กาบเชิง"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สนม"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ศีขรภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "บัวเชด"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ราษีไศล"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "อุทุมพรพิสัย"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "โนนคูณ"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ศรีรัตนะ"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "วังหิน"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "พยุห์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "โพธิ์ศรีสุวรรณ"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "ศิลาลาด"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอุบลราชธานี"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เขื่องใน"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ชานุมาน*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "นาจะหลวย"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ตระการพืชผล"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "กุดข้าวปุ้น"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "28",
+    "DISTRICT_NAME": "กิ่งอำเภอศรีหลักชัย*"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองยโสธร"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ทรายมูล"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ป่าติ้ว"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เลิงนกทา"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ไทยเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เกษตรสมบูรณ์"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "หนองบัวแดง"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "จัตุรัส"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "หนองบัวระเหว"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ภักดีชุมพล"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "เมืองชัยภูมิ (สาขาตำบลโนนสำราญ)*"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "54",
+    "DISTRICT_NAME": "กิ่งอำเภอซับใหญ่ (สาขาตำบลซับใหญ่)*"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "56",
+    "DISTRICT_NAME": "เทพสถิต (สาขาตำบลนายางกลัก)*"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ปากคาด"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บึงโขงหลง"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ศรีวิไล"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองหนองบัวลำภู"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "สุวรรณคูหา"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "นาวัง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "ซำสูง"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "ประจักษ์ศิลปาคม"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "นาแห้ว"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ภูเรือ"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ท่าลี่"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เอราวัณ"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองหนองคาย"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ท่าบ่อ"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "พรเจริญ*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "โพนพิสัย"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "โซ่พิสัย*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ศรีเชียงใหม่"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สังคม"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โกสุมพิสัย"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เชียงยืน"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ยางสีสุราช"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ปทุมรัตต์"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "หนองพอก"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "เสลภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "สุวรรณภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ศรีสมเด็จ"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "หนองฮี"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "ทุ่งเขาหลวง"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "นามน"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "สว่างแดนดิน"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "เต่างอย"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "วานรนิวาส (สาขาตำบลกุดเรือคำ)*"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "วังยาง"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "คำชะอี"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "หนองสูง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองเชียงใหม่"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "จอมทอง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "แม่แจ่ม"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "ดอยเต่า"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "แม่วาง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "เทศบาลนครเชียงใหม่ (สาขาแขวงกาลวิละ*"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "52",
+    "DISTRICT_NAME": "เทศบาลนครเชียงใหม่ (สาขาแขวงศรีวิชั*"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "53",
+    "DISTRICT_NAME": "เทศบาลนครเชียงใหม่ (สาขาเม็งราย*"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองลำพูน"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บ้านโฮ่ง"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "บ้านธิ"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เวียงหนองล่อง"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองลำปาง"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "แม่เมาะ"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เกาะคา"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "สูงเม่น"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองน่าน"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ปัว"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ท่าวังผา"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ทุ่งช้าง"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "เชียงกลาง"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "สันติสุข"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ภูเพียง"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองพะเยา"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เชียงม่วน"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปง"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "แม่ใจ"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เวียงชัย"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "แม่สาย"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "แม่สรวย"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "เวียงป่าเป้า"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "พญาเม็งราย"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เวียงแก่น"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "แม่ฟ้าหลวง"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "แม่ลาว"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "เวียงเชียงรุ้ง"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองแม่ฮ่องสอน"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ปาย"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "สบเมย"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ปางมะผ้า"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครสวรรค์"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หนองบัว"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ท่าตะโก"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ลาดยาว"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ตากฟ้า"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "แม่เปิน"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านไร่"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ห้วยคต"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองกำแพงเพชร"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "คลองลาน"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ลานกระบือ"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ทรายทองวัฒนา"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ปางศิลาทอง"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านตาก"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "สามเงา"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "แม่ระมาด"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "แม่สอด"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "อุ้มผาง"
+  },
+  {
+    "PROVINCE_CODE": "63",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "วังเจ้า"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสุโขทัย"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านด่านลานหอย"
+  },
+  {
+    "PROVINCE_CODE": "64",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "กงไกรลาศ"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองพิษณุโลก"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "นครไทย"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ชาติตระการ"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พรหมพิราม"
+  },
+  {
+    "PROVINCE_CODE": "65",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "เนินมะปราง"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โพธิ์ประทับช้าง"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ตะพานหิน"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บางมูลนาก"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "สากเหล็ก"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บึงนาราง"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ดงเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "66",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "วชิรบารมี"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ชนแดน"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หล่มสัก"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "บึงสามพัน"
+  },
+  {
+    "PROVINCE_CODE": "67",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "น้ำหนาว"
+  },
+  {
+    "PROVINCE_CODE": "70",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ปากท่อ"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองกาญจนบุรี"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บ่อพลอย"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ท่ามะกา"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ท่าม่วง"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "พนมทวน"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "เลาขวัญ"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "บ้านทวน  จ.กาญจนบุรี*"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ศรีประจันต์"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สองพี่น้อง"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สามชุก"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "อู่ทอง"
+  },
+  {
+    "PROVINCE_CODE": "72",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "หนองหญ้าไซ"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครปฐม"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "นครชัยศรี"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "สามพราน"
+  },
+  {
+    "PROVINCE_CODE": "73",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "พุทธมณฑล"
+  },
+  {
+    "PROVINCE_CODE": "75",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บางคนที"
+  },
+  {
+    "PROVINCE_CODE": "75",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "อัมพวา"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองเพชรบุรี"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "54",
+    "DISTRICT_NAME": "หัวไทร (สาขาตำบลควนชะลิก)*"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "คลองท่อม"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "อ่าวลึก"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ลำทับ"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เหนือคลอง"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองพังงา"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เกาะยาว"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กะปง"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "คุระบุรี"
+  },
+  {
+    "PROVINCE_CODE": "82",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ทับปุด"
+  },
+  {
+    "PROVINCE_CODE": "83",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองภูเก็ต"
+  },
+  {
+    "PROVINCE_CODE": "83",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ถลาง"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ไชยา"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ท่าชนะ"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "บ้านนาสาร"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "บ้านนาเดิม"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ชัยบุรี"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "วิภาวดี"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "\"อ.บ้านดอน",
+    "undefined": "จ.สุราษฎร์ธานี*\""
+  },
+  {
+    "PROVINCE_CODE": "85",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ละอุ่น"
+  },
+  {
+    "PROVINCE_CODE": "85",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กะเปอร์"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ปะทิว"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ละแม"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "จะนะ"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "นาทวี"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เทพา"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "สะบ้าย้อย"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "กระแสสินธุ์"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "รัตภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "สะเดา"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ควนเนียง"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ละงู"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองตรัง"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กันตัง"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ปะเหลียน"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "สิเกา"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ห้วยยอด"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "รัษฎา"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ควนขนุน"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ปากพะยูน"
+  },
+  {
+    "PROVINCE_CODE": "93",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ศรีนครินทร์"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองปัตตานี"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ปะนาเระ"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "แม่ลาน"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองยะลา"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เบตง"
+  },
+  {
+    "PROVINCE_CODE": "95",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บันนังสตา"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ตากใบ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ยี่งอ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ระแงะ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "แว้ง"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "สุไหงโก-ลก"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "สุไหงปาดี"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "จะแนะ"
+  },
+  {
+    "PROVINCE_CODE": "96",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "บางนรา"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เขตป้อมปราบศัตรูพ่าย"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "เขตพญาไท"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เขตธนบุรี"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "เขตหนองแขม"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "26",
+    "DISTRICT_NAME": "เขตดินแดง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "29",
+    "DISTRICT_NAME": "เขตบางซื่อ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "30",
+    "DISTRICT_NAME": "เขตจตุจักร"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "31",
+    "DISTRICT_NAME": "เขตบางคอแหลม"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "34",
+    "DISTRICT_NAME": "เขตสวนหลวง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "35",
+    "DISTRICT_NAME": "เขตจอมทอง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "36",
+    "DISTRICT_NAME": "เขตดอนเมือง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "37",
+    "DISTRICT_NAME": "เขตราชเทวี"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "38",
+    "DISTRICT_NAME": "เขตลาดพร้าว"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "40",
+    "DISTRICT_NAME": "เขตบางแค"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "42",
+    "DISTRICT_NAME": "เขตสายไหม"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "43",
+    "DISTRICT_NAME": "เขตคันนายาว"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "47",
+    "DISTRICT_NAME": "เขตบางนา"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "48",
+    "DISTRICT_NAME": "เขตทวีวัฒนา"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ยางชุมน้อย"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "กันทรลักษ์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ไพรบึง"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ขุนหาญ"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "บึงบูรพ์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ห้วยทับทัน"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "น้ำเกลี้ยง"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "เมืองจันทร์"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ศรีเมืองใหม่"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โขงเจียม"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เดชอุดม"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "น้ำยืน"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บุณฑริก"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "พนา*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ม่วงสามสิบ"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "วารินชำราบ"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "อำนาจเจริญ*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "เสนางคนิคม*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "ตาลสุม"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "กิ่งอำเภอลืออำนาจ*"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "สิรินธร"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "30",
+    "DISTRICT_NAME": "นาตาล"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "32",
+    "DISTRICT_NAME": "สว่างวีระวงศ์"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "33",
+    "DISTRICT_NAME": "น้ำขุ่น"
+  },
+  {
+    "PROVINCE_CODE": "35",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ค้อวัง"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองชัยภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านเขว้า"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "คอนสวรรค์"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ซับใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "52",
+    "DISTRICT_NAME": "สาขาตำบลบ้านหว่าเฒ่า*"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "55",
+    "DISTRICT_NAME": "สาขาตำบลโคกเพชร*"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "59",
+    "DISTRICT_NAME": "คอนสาร (สาขาตำบลโนนคูณ)*"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอำนาจเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ลืออำนาจ"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "พรเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ศรีบุญเรือง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านฝาง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หนองเรือ"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "สีชมพู"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "เปือยน้อย"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "พล"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "แวงใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "หนองสองห้อง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "ภูผาม่าน"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "หนองหาน"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ทุ่งฝน"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ไชยวาน"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "สุวรรณคูหา*"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "นาด้วง"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ปากชม"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "บุ่งคล้า*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "รัตนวาปี"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "โพธิ์ตาก"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองมหาสารคาม"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "โพธิ์ชัย"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "อาจสามารถ"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองกาฬสินธุ์"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "กุฉินารายณ์"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เขาวง"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "สมเด็จ"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "สามชัย"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ฆ้องชัย"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสกลนคร"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "พรรณานิคม"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "พังโคน"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "วาริชภูมิ"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "คำตากล้า"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บ้านม่วง"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "อากาศอำนวย"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ส่องดาว"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "โคกศรีสุพรรณ"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ภูพาน"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนครพนม"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ปลาปาก"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บ้านแพง"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ธาตุพนม"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เรณูนคร"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "โพนสวรรค์"
+  },
+  {
+    "PROVINCE_CODE": "48",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "นาทม"
+  },
+  {
+    "PROVINCE_CODE": "49",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองมุกดาหาร"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "เชียงดาว"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ดอยสะเก็ด"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "แม่แตง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "พร้าว"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "สันป่าตอง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "สันกำแพง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "หางดง"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "กัลยาณิวัฒนา"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "แม่ทา"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ลี้"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ทุ่งหัวช้าง"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "แจ้ห่ม"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "วังเหนือ"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เถิน"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "สบปราบ"
+  },
+  {
+    "PROVINCE_CODE": "52",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เมืองปาน"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านโคก"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "พิชัย"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ลับแล"
+  },
+  {
+    "PROVINCE_CODE": "53",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ทองแสนขัน"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองแพร่"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ร้องกวาง"
+  },
+  {
+    "PROVINCE_CODE": "54",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "หนองม่วงไข่"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "แม่จริม"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บ้านหลวง"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "นาน้อย"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เวียงสา"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "บ่อเกลือ"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "สองแคว"
+  },
+  {
+    "PROVINCE_CODE": "55",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ภูซาง"
+  },
+  {
+    "PROVINCE_CODE": "56",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ภูกามยาว"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองเชียงราย"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "พาน"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ป่าแดด"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "แม่จัน"
+  },
+  {
+    "PROVINCE_CODE": "57",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "ดอยหลวง"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ขุนยวม"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "แม่สะเรียง"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "แม่ลาน้อย"
+  },
+  {
+    "PROVINCE_CODE": "58",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "\"อ.ม่วยต่อ",
+    "undefined": "จ.แม่ฮ่องสอน*\""
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "โกรกพระ"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "พยุหะคีรี"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "แม่วงก์"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "ชุมตาบง"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "สาขาตำบลห้วยน้ำหอม*"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "52",
+    "DISTRICT_NAME": "กิ่งอำเภอชุมตาบง (สาขาตำบลชุมตาบง)*"
+  },
+  {
+    "PROVINCE_CODE": "60",
+    "DISTRICT_CODE": "53",
+    "DISTRICT_NAME": "แม่วงก์ (สาขาตำบลแม่เล่ย์)*"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอุทัยธานี"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ทัพทัน"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "สว่างอารมณ์"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หนองฉาง"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "หนองขาหย่าง"
+  },
+  {
+    "PROVINCE_CODE": "61",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ลานสัก"
+  },
+  {
+    "PROVINCE_CODE": "62",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ไทรงาม"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ด่านมะขามเตี้ย"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "หนองปรือ"
+  },
+  {
+    "PROVINCE_CODE": "71",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ห้วยกระเจา"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เขาย้อย"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หนองหญ้าปล้อง"
+  },
+  {
+    "PROVINCE_CODE": "76",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บ้านลาด"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กุยบุรี"
+  },
+  {
+    "PROVINCE_CODE": "77",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บางสะพานน้อย"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ลานสกา"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "เชียรใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ชะอวด"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ท่าศาลา"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ทุ่งสง"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "นาบอน"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ปากพนัง"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "สิชล"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "หัวไทร"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "พระพรหม"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "ช้างกลาง"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "เชียรใหญ่ (สาขาตำบลเสือหึง)*"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "52",
+    "DISTRICT_NAME": "สาขาตำบลสวนหลวง*"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "53",
+    "DISTRICT_NAME": "ร่อนพิบูลย์ (สาขาตำบลหินตก)*"
+  },
+  {
+    "PROVINCE_CODE": "80",
+    "DISTRICT_CODE": "55",
+    "DISTRICT_NAME": "ทุ่งสง (สาขาตำบลกะปาง)*"
+  },
+  {
+    "PROVINCE_CODE": "81",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองกระบี่"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "พนม"
+  },
+  {
+    "PROVINCE_CODE": "84",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เวียงสระ"
+  },
+  {
+    "PROVINCE_CODE": "86",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ทุ่งตะโก"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสงขลา"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "หาดใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "นาหม่อม"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "บางกล่ำ"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "สิงหนคร"
+  },
+  {
+    "PROVINCE_CODE": "90",
+    "DISTRICT_CODE": "96",
+    "DISTRICT_NAME": "เทศบาลตำบลบ้านพรุ*"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสตูล"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ควนโดน"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ท่าแพ"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ทุ่งหว้า"
+  },
+  {
+    "PROVINCE_CODE": "91",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "มะนัง"
+  },
+  {
+    "PROVINCE_CODE": "92",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ย่านตาขาว"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "โคกโพธิ์"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หนองจิก"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "มายอ"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ทุ่งยางแดง"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "สายบุรี"
+  },
+  {
+    "PROVINCE_CODE": "94",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ไม้แก่น"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เขตพระนคร"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เขตดุสิต"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เขตหนองจอก"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "เขตปทุมวัน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เขตสัมพันธวงศ์"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "เขตห้วยขวาง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "เขตตลิ่งชัน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "เขตบางกอกน้อย"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "เขตบางขุนเทียน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "เขตภาษีเจริญ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "41",
+    "DISTRICT_NAME": "เขตหลักสี่"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "46",
+    "DISTRICT_NAME": "เขตคลองสามวา"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "50",
+    "DISTRICT_NAME": "เขตบางบอน"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "บ้านทะวาย*"
+  },
+  {
+    "PROVINCE_CODE": "11",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "พระประแดง"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองนนทบุรี"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บางกรวย"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางบัวทอง"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "หนองเสือ"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "พระนครศรีอยุธยา"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "บางไทร"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บางปะอิน"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "บางปะหัน"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "ผักไห่"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "เสนา"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ป่าโมก"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "โพธิ์ทอง"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "แสวงหา"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองลพบุรี"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "สระโบสถ์"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ลำสนธิ"
+  },
+  {
+    "PROVINCE_CODE": "16",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "อ.บ้านเช่า  จ.ลพบุรี*"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บางระจัน"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ค่ายบางระจัน"
+  },
+  {
+    "PROVINCE_CODE": "17",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "พรหมบุรี"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "มโนรมย์"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "หันคา"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "หนองมะโมง"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "เนินขาม"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองสระบุรี"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "แก่งคอย"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "วิหารแดง"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "หนองแซง"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "เสาไห้"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "มวกเหล็ก"
+  },
+  {
+    "PROVINCE_CODE": "19",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "เฉลิมพระเกียรติ"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "พานทอง"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "โป่งน้ำร้อน"
+  },
+  {
+    "PROVINCE_CODE": "22",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "แหลมสิงห์"
+  },
+  {
+    "PROVINCE_CODE": "24",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "พนมสารคาม"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "สระแก้ว*"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ขามสะแกแสง"
+  },
+  {
+    "PROVINCE_CODE": "30",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "บัวใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ละหานทราย"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ประโคนชัย"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "หนองหงส์"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ท่าตูม"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "เขวาสินรินทร์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองศรีสะเกษ"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "กันทรารมย์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ขุขันธ์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "ปรางค์กู่"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "ภูสิงห์"
+  },
+  {
+    "PROVINCE_CODE": "33",
+    "DISTRICT_CODE": "19",
+    "DISTRICT_NAME": "เบญจลักษ์"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "บำเหน็จณรงค์"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เนินสง่า"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "53",
+    "DISTRICT_NAME": "หนองบัวแดง (สาขาตำบลวังชมภู)*"
+  },
+  {
+    "PROVINCE_CODE": "36",
+    "DISTRICT_CODE": "58",
+    "DISTRICT_NAME": "แก้งคร้อ (สาขาตำบลท่ามะไฟหวาน)*"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "พนา"
+  },
+  {
+    "PROVINCE_CODE": "37",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "หัวตะพาน"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองบึงกาฬ"
+  },
+  {
+    "PROVINCE_CODE": "38",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "บุ่งคล้า"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "นากลาง"
+  },
+  {
+    "PROVINCE_CODE": "39",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "โนนสัง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "พระยืน"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "น้ำพอง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "อุบลรัตน์"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "บ้านไผ่"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "แวงน้อย"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "ภูเวียง"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "22",
+    "DISTRICT_NAME": "โคกโพธิ์ไชย"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "29",
+    "DISTRICT_NAME": "เวียงเก่า"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "68",
+    "DISTRICT_NAME": "ท้องถิ่นเทศบาลตำบลบ้านเป็ด*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองอุดรธานี"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กุดจับ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ศรีธาตุ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "วังสามหมอ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "บ้านดุง"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "หนองบัวลำภู*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ศรีบุญเรือง*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "น้ำโสม"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ด่านซ้าย"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "บึงกาฬ*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "ศรีวิไล*"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "บรบือ"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "นาเชือก"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "นาดูน"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "81",
+    "DISTRICT_NAME": "หลุบ*"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "เกษตรวิสัย"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "จตุรพักตรพิมาน"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "18",
+    "DISTRICT_NAME": "เชียงขวัญ"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "ห้วยผึ้ง"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "นาคู"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "ดอนจาน"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "กุสุมาลย์"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "นิคมน้ำอูน"
+  },
+  {
+    "PROVINCE_CODE": "47",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "วานรนิวาส"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "07",
+    "DISTRICT_NAME": "แม่ริม"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "แม่อาย"
+  },
+  {
+    "PROVINCE_CODE": "50",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "แม่ออน"
+  },
+  {
+    "PROVINCE_CODE": "51",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "ป่าซาง"
+  },
+  {
+    "PROVINCE_CODE": "85",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองระนอง"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "เขตมีนบุรี"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "เขตบางกอกใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "เขตราษฎร์บูรณะ"
+  },
+  {
+    "PROVINCE_CODE": "10",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "เขตบางพลัด"
+  },
+  {
+    "PROVINCE_CODE": "12",
+    "DISTRICT_CODE": "51",
+    "DISTRICT_NAME": "เทศบาลนครนนทบุรี (สาขาแขวงท่าทราย)*"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "คลองหลวง"
+  },
+  {
+    "PROVINCE_CODE": "13",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "ธัญบุรี"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "ท่าเรือ"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "บางบาล"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "ภาชี"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ลาดบัวหลวง"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "บางซ้าย"
+  },
+  {
+    "PROVINCE_CODE": "14",
+    "DISTRICT_CODE": "16",
+    "DISTRICT_NAME": "บ้านแพรก"
+  },
+  {
+    "PROVINCE_CODE": "15",
+    "DISTRICT_CODE": "06",
+    "DISTRICT_NAME": "วิเศษชัยชาญ"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองชัยนาท"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "วัดสิงห์"
+  },
+  {
+    "PROVINCE_CODE": "18",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "สรรคบุรี"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองชลบุรี"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "02",
+    "DISTRICT_NAME": "บ้านบึง"
+  },
+  {
+    "PROVINCE_CODE": "20",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หนองใหญ่"
+  },
+  {
+    "PROVINCE_CODE": "25",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "วังน้ำเย็น*"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "บ้านกรวด"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ลำปลายมาศ"
+  },
+  {
+    "PROVINCE_CODE": "31",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "บ้านด่าน"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "จอมพระ"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "ปราสาท"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "สังขะ"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "ลำดวน"
+  },
+  {
+    "PROVINCE_CODE": "32",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "พนมดงรัก"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "เขมราฐ"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "โพธิ์ไทร"
+  },
+  {
+    "PROVINCE_CODE": "34",
+    "DISTRICT_CODE": "26",
+    "DISTRICT_NAME": "ทุ่งศรีอุดม"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "23",
+    "DISTRICT_NAME": "หนองนาคำ"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "24",
+    "DISTRICT_NAME": "บ้านแฮด"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "25",
+    "DISTRICT_NAME": "โนนศิลา"
+  },
+  {
+    "PROVINCE_CODE": "40",
+    "DISTRICT_CODE": "98",
+    "DISTRICT_NAME": "เทศบาลตำบลเมืองพล*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "หนองวัวซอ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "กุมภวาปี"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "05",
+    "DISTRICT_NAME": "โนนสะอาด"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "นากลาง*"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "17",
+    "DISTRICT_NAME": "บ้านผือ"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "20",
+    "DISTRICT_NAME": "สร้างคอม"
+  },
+  {
+    "PROVINCE_CODE": "41",
+    "DISTRICT_CODE": "21",
+    "DISTRICT_NAME": "หนองแสง"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "03",
+    "DISTRICT_NAME": "เชียงคาน"
+  },
+  {
+    "PROVINCE_CODE": "42",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "วังสะพุง"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "09",
+    "DISTRICT_NAME": "เซกา*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "10",
+    "DISTRICT_NAME": "ปากคาด*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "11",
+    "DISTRICT_NAME": "บึงโขงหลง*"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "14",
+    "DISTRICT_NAME": "สระใคร"
+  },
+  {
+    "PROVINCE_CODE": "43",
+    "DISTRICT_CODE": "15",
+    "DISTRICT_NAME": "เฝ้าไร่"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "08",
+    "DISTRICT_NAME": "พยัคฆภูมิพิสัย"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "12",
+    "DISTRICT_NAME": "กุดรัง"
+  },
+  {
+    "PROVINCE_CODE": "44",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "ชื่นชม"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "01",
+    "DISTRICT_NAME": "เมืองร้อยเอ็ด"
+  },
+  {
+    "PROVINCE_CODE": "45",
+    "DISTRICT_CODE": "13",
+    "DISTRICT_NAME": "โพนทราย"
+  },
+  {
+    "PROVINCE_CODE": "46",
+    "DISTRICT_CODE": "04",
+    "DISTRICT_NAME": "ร่องคำ"
+  }
+]

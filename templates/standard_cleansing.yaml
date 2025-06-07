@@ -1,0 +1,100 @@
+# Standard Cleansing Template
+# แม่แบบการทำความสะอาดข้อมูลมาตรฐาน
+
+name: "Standard Data Cleansing"
+description: "แม่แบบการทำความสะอาดข้อมูลมาตรฐานสำหรับข้อมูลทั่วไป"
+version: "1.0"
+created_date: "2024-01-01"
+
+# ขั้นตอนการทำความสะอาด
+steps:
+  1_preprocessing:
+    name: "การประมวลผลเบื้องต้น"
+    actions:
+      - detect_encoding: true
+      - standardize_columns: true
+      - basic_validation: true
+  
+  2_missing_data:
+    name: "จัดการข้อมูลที่หายไป"
+    strategy: "smart_fill"  # drop, fill_mean, fill_median, fill_mode, smart_fill
+    numeric_strategy: "median"
+    categorical_strategy: "mode"
+    threshold: 0.5  # ลบคอลัมน์ที่มีข้อมูลหายไปมากกว่า 50%
+  
+  3_duplicates:
+    name: "ลบข้อมูลซ้ำ"
+    strategy: "keep_first"  # keep_first, keep_last, remove_all
+    subset_columns: []  # ถ้าว่าง จะใช้ทุกคอลัมน์
+    mark_duplicates: true
+  
+  4_data_types:
+    name: "ปรับปรุงประเภทข้อมูล"
+    auto_detect: true
+    datetime_formats:
+      - "%Y-%m-%d"
+      - "%d/%m/%Y"
+      - "%Y-%m-%d %H:%M:%S"
+    numeric_columns: []  # ระบุคอลัมน์ที่ต้องการแปลงเป็นตัวเลข
+    categorical_columns: []  # ระบุคอลัมน์ที่ต้องการแปลงเป็นหมวดหมู่
+  
+  5_standardization:
+    name: "ปรับมาตรฐานข้อมูล"
+    text_operations:
+      - trim_whitespace: true
+      - remove_extra_spaces: true
+      - standardize_case: "proper"  # upper, lower, proper, none
+    email_standardization:
+      - to_lowercase: true
+      - validate_format: true
+    phone_standardization:
+      - remove_formatting: true
+      - validate_format: true
+  
+  6_outliers:
+    name: "ตรวจจับค่าผิดปกติ"
+    method: "iqr"  # iqr, zscore, isolation_forest
+    threshold: 1.5  # สำหรับ IQR
+    action: "flag"  # flag, remove, cap
+    apply_to: "numeric_only"
+  
+  7_validation:
+    name: "ตรวจสอบความถูกต้อง"
+    business_rules:
+      - validate_email_format: true
+      - validate_phone_format: true
+      - validate_date_ranges: true
+      - validate_numeric_ranges: true
+    quality_thresholds:
+      completeness: 0.95
+      uniqueness: 0.98
+      consistency: 0.99
+      accuracy: 0.95
+
+# การตั้งค่าเพิ่มเติม
+settings:
+  backup_original: true
+  log_actions: true
+  generate_report: true
+  report_format: "html"  # html, json, txt
+  
+# กฎการตรวจสอบเฉพาะ
+validation_rules:
+  age:
+    min_value: 0
+    max_value: 120
+  salary:
+    min_value: 0
+    max_value: 10000000
+  email:
+    pattern: "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+  phone:
+    pattern: "^[0-9+\\-\\s\\(\\)]{8,15}$"
+
+# คำอธิบายผลลัพธ์
+expected_outcomes:
+  - "ข้อมูลที่สะอาดและมีคุณภาพสูง"
+  - "ไม่มีข้อมูลซ้ำซ้อน"
+  - "ข้อมูลที่หายไปได้รับการจัดการอย่างเหมาะสม"
+  - "รูปแบบข้อมูลมีความสม่ำเสมอ"
+  - "ค่าผิดปกติได้รับการระบุและจัดการ"

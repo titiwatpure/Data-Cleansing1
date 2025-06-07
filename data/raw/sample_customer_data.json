@@ -1,0 +1,112 @@
+[
+  {
+    "customer_id": 1,
+    "name": "บริษัท เทคโนโลยี จำกัด",
+    "email": "info@tech-company.com",
+    "phone": "0212345678",
+    "address": "123 ถนนสาทร กรุงเทพฯ 10120",
+    "registration_date": "2020-01-15",
+    "annual_revenue": 5000000,
+    "employee_count": 50,
+    "industry": "Technology"
+  },
+  {
+    "customer_id": 2,
+    "name": "ร้านอาหารไทยโบราณ",
+    "email": "contact@thai-restaurant.com",
+    "phone": "0223456789",
+    "address": "456 ถนนเยาวราช กรุงเทพฯ 10100",
+    "registration_date": "2019-08-20",
+    "annual_revenue": 2500000,
+    "employee_count": 25,
+    "industry": "Food & Beverage"
+  },
+  {
+    "customer_id": 3,
+    "name": "โรงพยาบาลสุขภาพดี",
+    "email": "admin@health-hospital.com",
+    "phone": "0234567890",
+    "address": "789 ถนนพระราม 9 กรุงเทพฯ 10310",
+    "registration_date": "2018-03-10",
+    "annual_revenue": 15000000,
+    "employee_count": 150,
+    "industry": "Healthcare"
+  },
+  {
+    "customer_id": 4,
+    "name": "",
+    "email": "invalid-email-format",
+    "phone": "021234567890",
+    "address": "101 ถนนวิทยุ กรุงเทพฯ 10330",
+    "registration_date": "2021-06-15",
+    "annual_revenue": null,
+    "employee_count": 30,
+    "industry": "Education"
+  },
+  {
+    "customer_id": 5,
+    "name": "บริษัท ก่อสร้าง มั่นคง จำกัด",
+    "email": "info@construction-company.com",
+    "phone": "0245678901",
+    "address": "202 ถนนรัชดา กรุงเทพฯ 10400",
+    "registration_date": "2020-11-30",
+    "annual_revenue": 8000000,
+    "employee_count": 80,
+    "industry": "Construction"
+  },
+  {
+    "customer_id": 6,
+    "name": "ร้านเสื้อผ้าแฟชั่น",
+    "email": "sales@fashion-store.com",
+    "phone": "",
+    "address": "303 ถนนสยาม กรุงเทพฯ 10500",
+    "registration_date": "2022-02-14",
+    "annual_revenue": 3500000,
+    "employee_count": 15,
+    "industry": "Retail"
+  },
+  {
+    "customer_id": 7,
+    "name": "สำนักงานกฎหมาย ยุติธรรม",
+    "email": "contact@law-office.com",
+    "phone": "0267890123",
+    "address": "404 ถนนปลอยลิ่น กรุงเทพฯ 10500",
+    "registration_date": "2017-09-05",
+    "annual_revenue": 4500000,
+    "employee_count": 20,
+    "industry": "Legal Services"
+  },
+  {
+    "customer_id": 2,
+    "name": "ร้านอาหารไทยโบราณ",
+    "email": "contact@thai-restaurant.com",
+    "phone": "0223456789",
+    "address": "456 ถนนเยาวราช กรุงเทพฯ 10100",
+    "registration_date": "2019-08-20",
+    "annual_revenue": 2500000,
+    "employee_count": 25,
+    "industry": "Food & Beverage"
+  },
+  {
+    "customer_id": 9,
+    "name": "บริษัท ขนส่ง รวดเร็ว จำกัด",
+    "email": "info@transport-company.com",
+    "phone": "0289012345",
+    "address": "606 ถนนพหลโยธิน กรุงเทพฯ 10900",
+    "registration_date": "2021-04-18",
+    "annual_revenue": 6000000,
+    "employee_count": 100,
+    "industry": "Transportation"
+  },
+  {
+    "customer_id": 10,
+    "name": "โรงเรียนเอกชน คุณภาพ",
+    "email": "admin@quality-school.com",
+    "phone": "0290123456",
+    "address": "707 ถนนลาดพร้าว กรุงเทพฯ 10230",
+    "registration_date": "2018-12-01",
+    "annual_revenue": 12000000,
+    "employee_count": 120,
+    "industry": "Education"
+  }
+]

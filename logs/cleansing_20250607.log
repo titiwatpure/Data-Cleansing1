@@ -1,0 +1,38 @@
+2025-06-07 20:38:26,808 - __main__ - INFO - Starting simple demo session
+2025-06-07 20:38:26,814 - modules.data_loader - INFO - Loading data from data/raw/sample_employee_data.csv (format: csv)
+2025-06-07 20:38:26,821 - modules.data_loader - INFO - Loaded 15 rows and 9 columns
+2025-06-07 20:38:26,822 - modules.data_loader - INFO - Data shape: (15, 9)
+2025-06-07 20:38:26,822 - modules.data_loader - INFO - Columns: ['id', 'name', 'email', 'age', 'salary', 'department', 'join_date', 'phone', 'address']
+2025-06-07 20:38:26,823 - modules.data_loader - INFO - Memory usage: 0.01 MB
+2025-06-07 20:38:26,824 - modules.data_loader - INFO - Total missing values: 4
+2025-06-07 20:38:26,824 - modules.data_loader - INFO -   name: 1 (6.7%)
+2025-06-07 20:38:26,824 - modules.data_loader - INFO -   age: 1 (6.7%)
+2025-06-07 20:38:26,825 - modules.data_loader - INFO -   salary: 1 (6.7%)
+2025-06-07 20:38:26,825 - modules.data_loader - INFO -   department: 1 (6.7%)
+2025-06-07 20:38:26,845 - modules.data_cleaner - INFO -    - จำนวนแถว: 15
+2025-06-07 20:38:26,845 - modules.data_cleaner - INFO -    - จำนวนคอลัมน์: 9
+2025-06-07 20:38:26,846 - modules.data_cleaner - INFO -    - ข้อมูลที่ขาด: 4 จุด
+2025-06-07 20:38:26,847 - modules.data_cleaner - INFO -    - ขนาดข้อมูล: 0.01 MB
+2025-06-07 20:38:26,933 - modules.data_cleaner - INFO -    - จำนวนแถว: 15
+2025-06-07 20:38:26,933 - modules.data_cleaner - INFO -    - จำนวนคอลัมน์: 9
+2025-06-07 20:38:26,934 - modules.data_cleaner - INFO -    - ข้อมูลที่ขาด: 0 จุด
+2025-06-07 20:38:26,935 - modules.data_cleaner - INFO -    - ขนาดข้อมูล: 0.01 MB
+2025-06-07 20:42:28,452 - __main__ - INFO - Starting simple demo session
+2025-06-07 20:42:28,457 - modules.data_loader - INFO - Loading data from data/raw/sample_employee_data.csv (format: csv)
+2025-06-07 20:42:28,460 - modules.data_loader - INFO - Loaded 15 rows and 9 columns
+2025-06-07 20:42:28,460 - modules.data_loader - INFO - Data shape: (15, 9)
+2025-06-07 20:42:28,461 - modules.data_loader - INFO - Columns: ['id', 'name', 'email', 'age', 'salary', 'department', 'join_date', 'phone', 'address']
+2025-06-07 20:42:28,461 - modules.data_loader - INFO - Memory usage: 0.01 MB
+2025-06-07 20:42:28,462 - modules.data_loader - INFO - Total missing values: 4
+2025-06-07 20:42:28,462 - modules.data_loader - INFO -   name: 1 (6.7%)
+2025-06-07 20:42:28,463 - modules.data_loader - INFO -   age: 1 (6.7%)
+2025-06-07 20:42:28,463 - modules.data_loader - INFO -   salary: 1 (6.7%)
+2025-06-07 20:42:28,463 - modules.data_loader - INFO -   department: 1 (6.7%)
+2025-06-07 20:42:28,474 - modules.data_cleaner - INFO -    - จำนวนแถว: 15
+2025-06-07 20:42:28,474 - modules.data_cleaner - INFO -    - จำนวนคอลัมน์: 9
+2025-06-07 20:42:28,474 - modules.data_cleaner - INFO -    - ข้อมูลที่ขาด: 4 จุด
+2025-06-07 20:42:28,475 - modules.data_cleaner - INFO -    - ขนาดข้อมูล: 0.01 MB
+2025-06-07 20:42:28,543 - modules.data_cleaner - INFO -    - จำนวนแถว: 15
+2025-06-07 20:42:28,544 - modules.data_cleaner - INFO -    - จำนวนคอลัมน์: 9
+2025-06-07 20:42:28,544 - modules.data_cleaner - INFO -    - ข้อมูลที่ขาด: 0 จุด
+2025-06-07 20:42:28,545 - modules.data_cleaner - INFO -    - ขนาดข้อมูล: 0.01 MB

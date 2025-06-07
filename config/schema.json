@@ -1,0 +1,223 @@
+{
+  "data_schema": {
+    "version": "1.0",
+    "description": "Data Schema Configuration for Data Cleansing Pipeline",
+    "description_thai": "กำหนดโครงสร้างข้อมูลสำหรับระบบทำความสะอาดข้อมูล",
+    
+    "column_types": {
+      "numeric": ["int64", "float64", "int32", "float32"],
+      "categorical": ["object", "category", "string"],
+      "datetime": ["datetime64", "date", "time"],
+      "boolean": ["bool", "boolean"]
+    },
+    
+    "validation_rules": {
+      "email": {
+        "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+        "description": "Valid email format",
+        "description_thai": "รูปแบบอีเมลที่ถูกต้อง"
+      },
+      "phone_th": {
+        "pattern": "^(\\+66|0)[0-9]{8,9}$",
+        "description": "Thai phone number format",
+        "description_thai": "รูปแบบเบอร์โทรศัพท์ไทย"
+      },
+      "id_card_th": {
+        "pattern": "^[0-9]{13}$",
+        "description": "Thai ID card number format",
+        "description_thai": "รูปแบบเลขบัตรประชาชนไทย"
+      },
+      "postal_code_th": {
+        "pattern": "^[0-9]{5}$",
+        "description": "Thai postal code format",
+        "description_thai": "รูปแบบรหัสไปรษณีย์ไทย"
+      }
+    },
+    
+    "data_quality_metrics": {
+      "completeness": {
+        "description": "Percentage of non-null values",
+        "description_thai": "เปอร์เซ็นต์ของข้อมูลที่ไม่เป็น null",
+        "threshold": 0.95,
+        "calculation": "non_null_count / total_count"
+      },
+      "uniqueness": {
+        "description": "Percentage of unique values",
+        "description_thai": "เปอร์เซ็นต์ของข้อมูลที่ไม่ซ้ำกัน",
+        "threshold": 0.98,
+        "calculation": "unique_count / total_count"
+      },
+      "consistency": {
+        "description": "Percentage of values following expected format",
+        "description_thai": "เปอร์เซ็นต์ของข้อมูลที่มีรูปแบบถูกต้อง",
+        "threshold": 0.99,
+        "calculation": "valid_format_count / total_count"
+      },
+      "accuracy": {
+        "description": "Percentage of values within valid range",
+        "description_thai": "เปอร์เซ็นต์ของข้อมูลที่อยู่ในช่วงที่ถูกต้อง",
+        "threshold": 0.95,
+        "calculation": "valid_range_count / total_count"
+      },
+      "validity": {
+        "description": "Percentage of values passing business rules",
+        "description_thai": "เปอร์เซ็นต์ของข้อมูลที่ผ่านกฎทางธุรกิจ",
+        "threshold": 0.97,
+        "calculation": "valid_business_rule_count / total_count"
+      }
+    },
+    
+    "cleansing_strategies": {
+      "missing_data": {
+        "numeric": {
+          "strategies": ["drop", "mean", "median", "mode", "forward_fill", "backward_fill", "interpolate"],
+          "default": "median",
+          "description_thai": "กลยุทธ์จัดการข้อมูลตัวเลขที่หายไป"
+        },
+        "categorical": {
+          "strategies": ["drop", "mode", "unknown", "forward_fill", "backward_fill"],
+          "default": "mode",
+          "description_thai": "กลยุทธ์จัดการข้อมูลหมวดหมู่ที่หายไป"
+        },
+        "datetime": {
+          "strategies": ["drop", "forward_fill", "backward_fill", "interpolate"],
+          "default": "forward_fill",
+          "description_thai": "กลยุทธ์จัดการข้อมูลวันที่ที่หายไป"
+        }
+      },
+      
+      "outlier_detection": {
+        "iqr": {
+          "description": "Interquartile Range method",
+          "description_thai": "วิธีช่วงควอร์ไทล์",
+          "parameters": {
+            "factor": 1.5
+          }
+        },
+        "zscore": {
+          "description": "Z-Score method",
+          "description_thai": "วิธี Z-Score",
+          "parameters": {
+            "threshold": 3
+          }
+        },
+        "isolation_forest": {
+          "description": "Isolation Forest algorithm",
+          "description_thai": "อัลกอริทึม Isolation Forest",
+          "parameters": {
+            "contamination": 0.1
+          }
+        }
+      },
+      
+      "duplicate_handling": {
+        "strategies": ["keep_first", "keep_last", "remove_all", "mark_duplicates"],
+        "default": "keep_first",
+        "description_thai": "กลยุทธ์จัดการข้อมูลซ้ำ"
+      }
+    },
+    
+    "transformation_templates": {
+      "standardization": {
+        "text_case": {
+          "options": ["upper", "lower", "title", "sentence"],
+          "description_thai": "มาตรฐานการเขียนตัวอักษร"
+        },
+        "whitespace": {
+          "actions": ["trim", "remove_extra", "normalize"],
+          "description_thai": "จัดการช่องว่าง"
+        },
+        "special_characters": {
+          "actions": ["remove", "replace", "normalize"],
+          "description_thai": "จัดการอักขระพิเศษ"
+        }
+      },
+      
+      "normalization": {
+        "numeric": {
+          "methods": ["min_max", "z_score", "robust", "unit_vector"],
+          "description_thai": "วิธีการปรับมาตรฐานข้อมูลตัวเลข"
+        },
+        "categorical": {
+          "methods": ["label_encoding", "one_hot", "binary"],
+          "description_thai": "วิธีการเข้ารหัสข้อมูลหมวดหมู่"
+        }
+      }
+    },
+    
+    "report_templates": {
+      "executive_summary": {
+        "sections": [
+          "data_overview",
+          "quality_score",
+          "key_findings",
+          "recommendations"
+        ],
+        "description_thai": "รายงานสรุปผู้บริหาร"
+      },
+      
+      "technical_report": {
+        "sections": [
+          "data_profiling",
+          "quality_assessment",
+          "cleansing_actions",
+          "transformation_log",
+          "validation_results"
+        ],
+        "description_thai": "รายงานทางเทคนิค"
+      },
+      
+      "data_dictionary": {
+        "sections": [
+          "column_definitions",
+          "data_types",
+          "value_ranges",
+          "business_rules"
+        ],
+        "description_thai": "พจนานุกรมข้อมูล"
+      }
+    },
+    
+    "file_formats": {
+      "input": {
+        "csv": {
+          "extensions": [".csv", ".txt"],
+          "encoding": ["utf-8", "utf-8-sig", "latin1", "cp1252"],
+          "delimiters": [",", ";", "|", "\t"]
+        },
+        "excel": {
+          "extensions": [".xlsx", ".xls"],
+          "sheet_detection": "auto"
+        },
+        "json": {
+          "extensions": [".json"],
+          "orientations": ["records", "index", "values", "split"]
+        },
+        "database": {
+          "supported": ["sqlite", "mysql", "postgresql", "sqlserver"],
+          "connection_timeout": 30
+        }
+      },
+      
+      "output": {
+        "csv": {
+          "encoding": "utf-8",
+          "delimiter": ",",
+          "include_index": false
+        },
+        "excel": {
+          "sheet_name": "cleaned_data",
+          "include_charts": true
+        },
+        "json": {
+          "orientation": "records",
+          "indent": 2
+        },
+        "parquet": {
+          "compression": "snappy",
+          "engine": "pyarrow"
+        }
+      }
+    }
+  }
+}
